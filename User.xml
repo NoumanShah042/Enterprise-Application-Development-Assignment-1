@@ -1,0 +1,126 @@
+<user>
+
+    <userdetails>
+        <UserID>1</UserID>
+        <Name>Nouman</Name>
+        <Age>23</Age>
+        <Gender>Male</Gender>
+        <City>Lahore</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-7731026-3</NIC>
+        <Telephone>0342-4556029</Telephone>
+        <DOB>19-11-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>2</UserID>
+        <Name>Ahmed</Name>
+        <Age>22</Age>
+        <Gender>Male</Gender>
+        <City>Karachi</City>
+        <Country>Pakistan</Country>
+        <NIC>35466-1231656-3</NIC>
+        <Telephone>0340-4556029</Telephone>
+        <DOB>19-11-1992</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>3</UserID>
+        <Name>Farhan</Name>
+        <Age>19</Age>
+        <Gender>Male</Gender>
+        <City>Hyderabad</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-1234026-3</NIC>
+        <Telephone>0342-6556729</Telephone>
+        <DOB>19-11-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>4</UserID>
+        <Name>Hafeez</Name>
+        <Age>39</Age>
+        <Gender>Male</Gender>
+        <City>Faisalabad</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-0005426-3</NIC>
+        <Telephone>0322-4556029</Telephone>
+        <DOB>19-11-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>5</UserID>
+        <Name>Afridi</Name>
+        <Age>45</Age>
+        <Gender>Male</Gender>
+        <City>Sialkot</City>
+        <Country>Pakistan</Country>
+        <NIC>35202-6010026-3</NIC>
+        <Telephone>0333-4556029</Telephone>
+        <DOB>19-11-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>6</UserID>
+        <Name>Babar</Name>
+        <Age>34</Age>
+        <Gender>Male</Gender>
+        <City>Pindi</City>
+        <Country>Pakistan</Country>
+        <NIC>35203-6730006-3</NIC>
+        <Telephone>0311-4556029</Telephone>
+        <DOB>19-11-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>7</UserID>
+        <Name>Hassan</Name>
+        <Age>30</Age>
+        <Gender>Male</Gender>
+        <City>Sibbi</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-6731000-3</NIC>
+        <Telephone>0333-8856029</Telephone>
+        <DOB>9-11-1988</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>8</UserID>
+        <Name>Misbah</Name>
+        <Age>26</Age>
+        <Gender>Male</Gender>
+        <City>Mansehra</City>
+        <Country>Pakistan</Country>
+        <NIC>35000-6731026-3</NIC>
+        <Telephone>0343-4556029</Telephone>
+        <DOB>1-1-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>9</UserID>
+        <Name>Shoaib Malik</Name>
+        <Age>20</Age>
+        <Gender>Male</Gender>
+        <City>Lahore</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-0001026-3</NIC>
+        <Telephone>0311-6556029</Telephone>
+        <DOB>12-2-1998</DOB> 
+    </userdetails>
+
+    <userdetails>
+        <UserID>10</UserID>
+        <Name>Rizwan</Name>
+        <Age>40</Age>
+        <Gender>Male</Gender>
+        <City>Islamabad</City>
+        <Country>Pakistan</Country>
+        <NIC>35201-7645026-3</NIC>
+        <Telephone>0342-8756029</Telephone>
+        <DOB>19-11-1970</DOB> 
+    </userdetails>
+
+
+
+
+</user>
